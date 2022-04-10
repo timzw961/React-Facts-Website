@@ -69,6 +69,10 @@ main {
     color: #61DAFB;
 }
 
+.main_list1 > a {
+    color: #61DAFB;
+}
+
 footer{
     position: fixed;
     bottom: 0;
