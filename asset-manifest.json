@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-facts-website/static/css/main.073c9b0a.css",
-    "main.js": "/react-facts-website/static/js/main.240ff963.js",
-    "static/js/787.5d16a74d.chunk.js": "/react-facts-website/static/js/787.5d16a74d.chunk.js",
-    "static/media/logo.svg": "/react-facts-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-facts-website/index.html",
-    "main.073c9b0a.css.map": "/react-facts-website/static/css/main.073c9b0a.css.map",
-    "main.240ff963.js.map": "/react-facts-website/static/js/main.240ff963.js.map",
-    "787.5d16a74d.chunk.js.map": "/react-facts-website/static/js/787.5d16a74d.chunk.js.map"
+    "main.css": "/React-Facts-Website/static/css/main.073c9b0a.css",
+    "main.js": "/React-Facts-Website/static/js/main.37de8628.js",
+    "static/js/787.5d16a74d.chunk.js": "/React-Facts-Website/static/js/787.5d16a74d.chunk.js",
+    "static/media/logo.svg": "/React-Facts-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Facts-Website/index.html",
+    "main.073c9b0a.css.map": "/React-Facts-Website/static/css/main.073c9b0a.css.map",
+    "main.37de8628.js.map": "/React-Facts-Website/static/js/main.37de8628.js.map",
+    "787.5d16a74d.chunk.js.map": "/React-Facts-Website/static/js/787.5d16a74d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.240ff963.js"
+    "static/js/main.37de8628.js"
   ]
 }
