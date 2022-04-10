@@ -10,8 +10,10 @@ export default function Main(){
                 <li> Has well over 100k stars on GitHub </li>
                 <li> Is maintained by Facebook </li>
                 <li> Powers thousands of enterprise apps, including mobile apps </li>
-                <li> <a href ="https://create-react-app.dev/docs/getting-started/" target="_blank" >Create React App</a>
-                 is an "easy" way of starting your first React Applications.  </li>
+                <li> 
+                    <a className = "main_link1" href ="https://create-react-app.dev/docs/getting-started/" target="_blank" >
+                        Create React App
+                    </a> is an "easy" way of starting your first React Applications.  </li>
                 <li> 
                     Trying to simply copy and paste the React App folder created from the "create react app" quick start guide into
                     a GitHub repository doesn't work as you may have thought. 
