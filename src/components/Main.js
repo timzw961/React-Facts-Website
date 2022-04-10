@@ -10,6 +10,7 @@ export default function Main(){
                 <li> Has well over 100k stars on GitHub </li>
                 <li> Is maintained by Facebook </li>
                 <li> Powers thousands of enterprise apps, including mobile apps </li>
+                <li> This is also another test </li>
             </ul>
         </main>
     )
