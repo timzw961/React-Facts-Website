@@ -4,7 +4,7 @@ export default function Footer(){
     return (
         <footer>
             <small> Website developed by Timothy Wang </small>   
-            <small> Website developed by Timothy Wang </small>   
+             
         </footer>
     )
 }
