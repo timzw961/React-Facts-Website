@@ -73,6 +73,10 @@ main {
     color: red;
 }
 
+.main_list1 > li > a{
+    color: #61DAFB;
+}
+
 footer{
     position: fixed;
     bottom: 0;
